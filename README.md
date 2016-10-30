@@ -1,5 +1,5 @@
 # Magento Multi Vendor Marketplace Extension
-See More Detail: https://github.com/daviddmst/Magento-Multi-Vendor-Marketplace-Extension
+See More Detail: https://www.magebay.com/magento-multi-vendor-marketplace-extension
 Magento Multi Vendor Marketplace Extension
 Top Features include Magento Marketplace Extension:
 + Seller Account Management : Admin can manage seller account.
@@ -10,25 +10,24 @@ Top Features include Magento Marketplace Extension:
 + Marketplace Page : This page will show lastest product, bestsale product, list spencial vendors.
 + Seller Shop Page : Each Vendor have spencial landing page. This page will showw all product's vendor, contact info, company info.
 + Notification/Mail System : 
-+ Seller Dashboard : This is Spencial Dashboard or Vendor.
++ Seller Dashboard : This is Spencial Dashboard or Vendor. Quick look on https://www.youtube.com/watch?v=B11wx5NKgts
 + Product Type Support: Simple, Virtual, Downloadable, Configurable
 + Support Multiple websites
 + Support Multi Language
 + Seller Advanced Report addon
-+ Messaging addon
-+ Seller Social Login addon
-+ Advanced Commission addon
-+ Seller Dashboard Theme
-+ Mass Import/Export Products (coming soon)
-+ Product Attribute Options Management
-+ Seller Attribute Options Management
-+ Seller Locator addon
-+ Vendor Vacation addon
-+ Multiple Flat Rate Shipping addon
-+ Table Rate Shipping addon (coming soon)
-+ Paypal Adaptive Payment
++ Messaging addon: Admin , Seller and Customer can send messages: Quick View: https://www.youtube.com/watch?v=i4PgH1qrXmY
++ Seller Social Login addon : Allow vendor can login via Facebook, Google, Twitter, linkedin
++ Advanced Commission addon: Admin can setup commission for spencial categories, special products via prduct attribues
++ Mass Import/Export Products: Allow Vendor can import bulk product via file csv
++ Product Attribute Options Management: Admin can manage product attribue that seller can enter value for this attribue
++ Seller Attribute Options Management : Admin can manage seller attribue.
++ Seller Locator addon : Allows vendors enter the location information of the store
++ Vendor Vacation addon : If you are going on vacation, taking a holiday break then Vendor can show meaages on their product or disable button add to cart.
++ Multiple Flat Rate Shipping addon: Allow seller add their shipping method.
++ Table Rate Shipping addon: Allow seller add their shipping method.
++ Paypal Adaptive Payment : helps to distribute funds automatically among multiple vendors through PayPal
 + Seller Price Comparison - Multiple Sellers to a single product
-+ Seller News (coming soon)
-+ Membership (coming soon)
-+ B2B Quotation (coming soon)
-+ Return Merchandise Authorization (RMA) System (coming soon) 
++ Seller News
++ Membership
++ B2B Quotation
++ Return Merchandise Authorization (RMA) System
