@@ -1,7 +1,9 @@
-# Magento Multi Vendor Marketplace Extension
-See More Detail: https://www.magebay.com/magento-multi-vendor-marketplace-extension
-Magento Multi Vendor Marketplace Extension
-Top Features include Magento Marketplace Extension:
+# Magento Multi Vendor Extension by Magebay
+Magento Multi Vendor Extension turns any Magento store into an Online Marketplace similar Amazon, Ebay or Etsy. This extension helps users can create a vendor account and sell their products in your marketplace.
+
+See More Detail: [Magento Multi Vendor Extension](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
+
+## Features of Magento Multi Vendor Extension:
 + Seller Account Management : Admin can manage seller account.
 + Seller Purchase Order Management : Seller can manage their orders
 + Seller Transaction Management : Seller can manage their transaction
