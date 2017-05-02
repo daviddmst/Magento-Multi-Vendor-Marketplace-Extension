@@ -4,19 +4,19 @@ Magento Multi Vendor Extension turns any Magento store into an Online Marketplac
 See More Detail: [Magento Multi Vendor Extension](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Features of Magento Multi Vendor Extension:
-+ Seller Account Management : Admin can manage seller account.
-+ Seller Purchase Order Management : Seller can manage their orders
-+ Seller Transaction Management : Seller can manage their transaction
-+ Seller Payment Methods : Admin can create new payment method, seller can used this payment method to withdraw amound money.
-+ Seller Commission Management : Admin can setup comission for each seller.
++ Vendors Account Management : Admin can manage seller account in backend. The admin can update information of vendors
++ Vendor Order Management : Admin can manage orders of vendors in backend.
++ Vendor Transaction Management: Admin can manage all transaction of vendors.
++ Vendor Payment Methods : Admin can create new payment method, seller can used this payment method to withdraw amound money.
++ Vendor Commission Management : Admin can setup comission for each Vendor, set commision for special categories and products.
 + Marketplace Page : This page will show lastest product, bestsale product, list spencial vendors.
 + Seller Shop Page : Each Vendor have spencial landing page. This page will showw all product's vendor, contact info, company info.
-+ Notification/Mail System : 
-+ Seller Dashboard : This is Spencial Dashboard or Vendor. Quick look on https://www.youtube.com/watch?v=B11wx5NKgts
-+ Product Type Support: Simple, Virtual, Downloadable, Configurable
-+ Support Multiple websites
-+ Support Multi Language
-+ Seller Advanced Report addon
++ Notification/Mail System: Vendors, Admin will get email notify for each action in marketplace. example: email for new order, email for messages, email for create new seller account, etc..
++ Seller Dashboard: This plugin help seller dashboard have special design. Quick look on https://www.youtube.com/watch?v=B11wx5NKgts
++ Magebay Magento Multi Vendor Extension support all product type such as Simple, Virtual, Downloadable, Configurable
++ Support Multiple websites: You can use this extension for your magento include feature multiple websites
++ Support Multi Language: It compatible with multiple language, you can easy to translate to any language via file CSV.
++ Vendor Advanced Report: This plugins help the vendor easy to create report for each product in seller dashboard.
 + Messaging addon: Admin , Seller and Customer can send messages: Quick View: https://www.youtube.com/watch?v=i4PgH1qrXmY
 + Seller Social Login addon : Allow vendor can login via Facebook, Google, Twitter, linkedin
 + Advanced Commission addon: Admin can setup commission for spencial categories, special products via prduct attribues
